@@ -37,7 +37,7 @@ branched - a version of the pointer algorithm code that includes branched micell
     pointer_algorithm_user-manual.pdf
 **This file contains instructions for user
 
-##References
+## References
 
 	[1] Tan, G.; Larson, R. Quantitative Modeling of Threadlike Micellar Solution Rheology. Rheol. Acta. 2022, 61, 443-457. https://doi.org/10.1007/s00397-022-01341-4.
 
