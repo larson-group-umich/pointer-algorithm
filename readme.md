@@ -35,6 +35,7 @@ branched - a version of the pointer algorithm code that includes branched micell
 ## User Instruction
 
     pointer_algorithm_user-manual.pdf
+    <embed src="https://github.com/larson-group-umich/pointer-algorithm/blob/555062efdd9711cbc5e4615d467fef690a0bf094/pointer_algorithm_user_manual.pdf" width="500" height="375" type="application/pdf">
 **This file contains instructions for user
 
 ## References
