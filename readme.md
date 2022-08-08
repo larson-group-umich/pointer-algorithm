@@ -23,19 +23,20 @@ Instructions for how to use the provided excel spreadsheet to extract the persis
 Pointer algorithm versions (described in more detail in the user manual):
 unmerged - describes the rheology of well-entangled micelles
 
-** ** merged v3.1 - the unmerged code with the effects of unentangled micelles (shorter than the entanglement length) added so that solutions at lower concentrations can be fitted using the pointer algorithm
+**merged v3.1** - the unmerged code with the effects of unentangled micelles (shorter than the entanglement length) added so that solutions at lower concentrations can be fitted using the pointer algorithm
 
-** ** merged v3.3 - a modification of the merged v3.1 code that adds additional Rouse modes based on a comparison with the slip-spring model and improves the high-frequency fits
+**merged v3.3** - a modification of the merged v3.1 code that adds additional Rouse modes based on a comparison with the slip-spring model and improves the high-frequency fits
+
 **This folder also contains the input files for a couple specific example simulations that will generate simulation data found in [1] and [2]. Example 1 is a non-iterative pointer algorithm simulation and Example 2 is an iterative pointer algorithm simulation.
 
-** ** branched - a version of the pointer algorithm code that includes branched micelles typically found at high salt concentrations past the viscosity peak on a salt curve
+**branched** - a version of the pointer algorithm code that includes branched micelles typically found at high salt concentrations past the viscosity peak on a salt curve
 **This folder contains an input file for an example simulation that generates simulation data from [3].
 
 
 ## User Instruction
 	pointer_algorithm_user_manual.pdf
 	excel_spreadsheet-Instructions.pdf
-**These files contain instructions for user. Please download the files and open with any pdf viewer. GitHub renders the pages in the pdf in wrong order.
+**These files contain instructions for user. Please download the files and open with any pdf viewer. GitHub renders the pages in the pdf in wrong order.**
 
 ## References
 
