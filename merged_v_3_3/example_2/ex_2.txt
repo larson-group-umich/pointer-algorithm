@@ -1,0 +1,10 @@
+This input file generates a simulation as shown in Figure 5b of ref. 2.  It is an iterative simulation that fits the experimental rheology of a SLE1S+CAPB/NaCl solution with the experimental parameters as follows:
+
+T = 298 K
+phi = 0.09
+eta_s = 0.00113 Pa.s
+eta_0 = 53 Pa.s
+
+and d = 4 nm.
+
+[2] Tan, G.; Zou, W.; Weaver, M.; Larson, R. G. Determining Threadlike Micelle Lengths from Rheometry. J. Rheol. 2021, 65 (1), 59–71. https://doi.org/10.1122/8.0000152.

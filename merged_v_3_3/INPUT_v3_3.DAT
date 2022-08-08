@@ -1,0 +1,24 @@
+SAMPLE				! Title
+298.15	0.05	0.00089 	! T (K), volume fraction, solvent visc. (Pa.s)
+Y	Y			! Experimental data, only mechanical data?
+N	N	N		! Create output file for G(t), G(w), G(w)+unentangled?
+N	Y	N		! Output bending/Rouse modes, iterate, 1 mode?
+N    	70			! Fit lp?, lp initial guess or fixed value
+14.8    1.0	4.0		! Zero shear viscosity (Pa.s), initial guess for micelle length (L) in micron, and diameter (d) in nm
+2000	20			! Size of micelle ensemble, number of iterations
+N       0.40    1.0          	! Set parameter values?, zeta, alpha
+0.0103	2.45E-04	0.115
+0.0107	2.61E-04	0.118
+0.0110	2.79E-04	0.122
+0.0114	2.97E-04	0.126
+0.0117	3.17E-04	0.130
+0.0121	3.38E-04	0.135
+0.0125	3.61E-04	0.139
+0.0129	3.85E-04	0.144
+0.0134	4.10E-04	0.148
+0.0138	4.38E-04	0.153
+0.0143	4.67E-04	0.158
+0.0147	4.98E-04	0.163
+0.0152	5.31E-04	0.169
+0.0157	5.66E-04	0.174
+0.0162	6.04E-04	0.180

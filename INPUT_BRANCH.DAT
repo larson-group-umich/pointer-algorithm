@@ -1,0 +1,9 @@
+BRANCHED MICELLE              ! Title
+298.15    0.0403    0.00116   ! Temperature (K), Volume fraction and Solvent viscosity (Pa.s)  
+Y         Y         Y         ! Creating detailed output file for G(t), Gw(t) and Rouse?
+N                             ! Using/creating previously equilibrated ensemble
+Y         Y         H         ! Creating detailed output file for initial, evolution and resolution of (micelle+strand) distribution?
+0.00E-0   51.224    1.8989    ! Zeta, Ze, Alpha
+0.00E-0   78.49     4         ! Zeta_bud, lp (nm), d (nm)
+2000      3                   ! Ensemble size, Functionality 
+Y	  4.521E+5  1.523E-2  ! Use specific parameter value? Breakage rate, budding time

@@ -1,0 +1,9 @@
+example_1			! Title
+30	0.01	0.00085 	! T (K), volume fraction, solvent visc. (Pa.s)
+N	Y			! Experimental data, only mechanical data?
+N	N	N		! Create output file for G(t), G(w), G(w)+unentangled?
+Y	N	N		! Output bending/Rouse modes, iterate, 1 mode?
+N    	20			! Fit lp?, lp initial guess or fixed value
+1       2.52	4.0		! Zero shear viscosity (Pa.s), initial guess for micelle length (L) in micron, and diameter (d) in nm
+2000	20			! Size of micelle ensemble, number of iterations
+Y       0.01    14          	! Set parameter values?, zeta, alpha

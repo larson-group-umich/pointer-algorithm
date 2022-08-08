@@ -1,0 +1,15 @@
+This input file can be used with the branched code to generate the simulation data in Fig. 4(a) of ref. 3.  Because of the length of branched simulations, they can only be run non-iteratively, either to determine the effect of the various input parameters or to match experimental data using a procedure described in ref. 3.
+
+The input parameters for the example simulation are
+T = 298 K
+phi = 0.0403
+eta_s = 0.00116 Pa.s
+Z = 51.2
+alpha = 1.90
+l_p = 78.5 nm
+N = 1000
+d = 4 nm
+k_br = 4.52*10^5
+tau_bud = 7.49*10^-4 s
+
+[3] Zou et al. "Mesoscopic Modeling of the Effect of Branching on the Viscoelasticity of Entangled Micellar Solution." (in preparation)
