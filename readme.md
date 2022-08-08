@@ -1,4 +1,4 @@
-#Pointer-Algorithm: A mesoscopic simulation method for accurate rheology of surfactant solutions
+# Pointer-Algorithm: A mesoscopic simulation method for accurate rheology of surfactant solutions
 
 ## About
 
