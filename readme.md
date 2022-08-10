@@ -48,4 +48,4 @@ unmerged - describes the rheology of well-entangled micelles
 
 ## Acknowledgement
 
-Created by Grace tan and Weizhong Zou
+Created by Grace Tan and Weizhong Zou
